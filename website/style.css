@@ -1,12 +1,9 @@
-.logo{  height:100px
-        width: 50%    
-        
-        }
-
-{
-  margin: 0;
-  font-family: Arial, Helvetica, sans-serif;
-}
+body {
+    background-image: url("jordanlogo.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;   
+    float: center;
+}   
 
 .topnav {
   overflow: hidden;
@@ -30,4 +27,7 @@
 .topnav a.active {
   background-color: #4CAF50;
   color: white;
+}
+.h1 {
+float: left;
 }
