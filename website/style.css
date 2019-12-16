@@ -5,29 +5,25 @@ body {
     float: center;
 }   
 
-.topnav {
-  overflow: hidden;
-  background-color: #333;
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
 }
 
-.topnav a {
+li {
+  display: inline;
+}
+
+li {
   float: left;
-  color: #f2f2f2;
-  text-align: center;
-  padding: 14px 16px;
-  text-decoration: none;
-  font-size: 17px;
 }
 
-.topnav a:hover {
-  background-color: #ddd;
-  color: black;
+a {
+  display: block;
+  padding: 8px;
+  background-color: #dddddd;
 }
-
-.topnav a.active {
-  background-color: #4CAF50;
-  color: white;
-}
-.h1 {
-float: left;
+ul {
+  background-color: #a01919;
 }
