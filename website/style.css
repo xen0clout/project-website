@@ -51,7 +51,7 @@ li a:hover {
   width: 60%;
   background-color: #555;
   overflow: auto;
-  float: center;
+  position: center;  
 }
 
 
